@@ -1,15 +1,3 @@
-/*
-    PROGRAM SOLUSI PERMASALAHAN SISTEM PERSAMAAN LINEAR
-
-    Kelompok : 6
-    Aldianto Prabowo Adi (Ketua)
-    Fiqal Hanif Al Daris
-    Muhammad Fadhlurrahman Muzakki
-    Reta Haura Zahra
-    Sarah Aghnia Fauzia
-    Mohammad Guntur Nugraha
-*/
-
 #include <stdio.h>
 #include<math.h>
 
