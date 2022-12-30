@@ -97,7 +97,7 @@ int main(){
 
     printf("\n[Terkonfirmasi Matriks Ordo %dx%d]\n\n", ordo, ordo);
 
-    // Deteksi Input User
+    // Deteksi Input Use
     // Perulangan Tiap Baris Matriks
     for(i = 0; i < ordo; i++) {
         printf("Input Matriks Baris ke-%d\n", (i + 1));
